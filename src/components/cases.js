@@ -2,12 +2,15 @@ import React from "react";
 import { ReactComponent as CasesNext } from "../assets/arrow-right.svg";
 import { ReactComponent as CasesPrev } from "../assets/arrow-left.svg";
 
+import { ReactComponent as ImageNext } from "../assets/curology.png";
+
+
 const caseStudies = [
   {
     id: 1,
     subtitle: "My Blog",
     title: "asdklsald sadsad sdasadsadlew",
-    img: "curology-min"
+    img: "curology"
   },
   {
     id: 2,
@@ -36,7 +39,7 @@ const Cases = () => {
               </div>
               <div className='case-image'>
                 <img
-                  src={require(`../assets/${caseItem.img}.png`)}
+                  src={require(`../assets/${caseItem.img}.png`).default}
                   alt={caseItem.title}
                 />
               </div>
