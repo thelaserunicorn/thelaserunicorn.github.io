@@ -11,7 +11,7 @@ const Banner = () => {
                             <span>Making Stuff Out Of</span>
                         </div>
                         <div className="line">
-                            <span>Sheer Curiosity</span>
+                            <span>Sheer Curiosity !</span>
                         </div>
                     </h2>
                     <div className="btn-row">
