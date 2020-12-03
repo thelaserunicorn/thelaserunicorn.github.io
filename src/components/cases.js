@@ -10,19 +10,22 @@ const caseStudies = [
     id: 1,
     subtitle: "My Blog",
     title: "asdklsald sadsad sdasadsadlew",
-    img: "curology"
+    img: "curology.png",
+    url: "http://github.com/thelaserunicorn"
   },
   {
     id: 2,
     subtitle: "My Movies",
     title: "loremipmsi ja skdasd kassdalsda",
-    img: "yourspace-min"
+    img: "yourspace-min.png",
+    url: "http://github.com/thelaserunicorn"
   },
   {
     id: 3,
     subtitle: "My Projects",
     title: "Check out my Github !",
-    img: "lumin-min"
+    img: "test.gif",
+    url: "http://github.com/thelaserunicorn"
   }
 ];
 
@@ -35,11 +38,11 @@ const Cases = () => {
             <div className='case' key={caseItem.id}>
               <div className='case-details'>
                 <span>{caseItem.subtitle}</span>
-                <h2>{caseItem.title}</h2>
+                <h2><a href={caseItem.url}>{caseItem.title}</a></h2>
               </div>
               <div className='case-image'>
                 <img
-                  src={require(`../assets/${caseItem.img}.png`).default}
+                  src={require(`../assets/${caseItem.img}`).default}
                   alt={caseItem.title}
                 />
               </div>
