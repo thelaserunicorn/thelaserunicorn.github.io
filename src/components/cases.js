@@ -1,30 +1,26 @@
 import React from "react";
-import { ReactComponent as CasesNext } from "../assets/arrow-right.svg";
-import { ReactComponent as CasesPrev } from "../assets/arrow-left.svg";
-
-import { ReactComponent as ImageNext } from "../assets/curology.png";
 
 
 const caseStudies = [
   {
     id: 1,
     subtitle: "My Blog",
-    title: "asdklsald sadsad sdasadsadlew",
-    img: "curology.png",
-    url: "http://github.com/thelaserunicorn"
+    title: "Read my latest blog",
+    img: "blog.gif",
+    url: "http://notasecretdiary.ml/"
   },
   {
     id: 2,
     subtitle: "My Movies",
-    title: "loremipmsi ja skdasd kassdalsda",
-    img: "yourspace-min.png",
-    url: "http://github.com/thelaserunicorn"
+    title: "Watch 'Serendipity'",
+    img: "camera.gif",
+    url: "https://youtu.be/dytKbn00ifw"
   },
   {
     id: 3,
     subtitle: "My Projects",
-    title: "Check out my Github !",
-    img: "test.gif",
+    title: "Check out my Github",
+    img: "code.gif",
     url: "http://github.com/thelaserunicorn"
   }
 ];
