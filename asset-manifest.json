@@ -1,25 +1,32 @@
 {
   "files": {
-    "main.css": "/static/css/main.b32aefec.chunk.css",
-    "main.js": "/static/js/main.b9af8bac.chunk.js",
-    "main.js.map": "/static/js/main.b9af8bac.chunk.js.map",
+    "main.css": "/static/css/main.4887a4ca.chunk.css",
+    "main.js": "/static/js/main.bd4e54ea.chunk.js",
+    "main.js.map": "/static/js/main.bd4e54ea.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.987571b1.js",
     "runtime-main.js.map": "/static/js/runtime-main.987571b1.js.map",
-    "static/js/2.c5b42085.chunk.js": "/static/js/2.c5b42085.chunk.js",
-    "static/js/2.c5b42085.chunk.js.map": "/static/js/2.c5b42085.chunk.js.map",
+    "static/js/2.9c329b2a.chunk.js": "/static/js/2.9c329b2a.chunk.js",
+    "static/js/2.9c329b2a.chunk.js.map": "/static/js/2.9c329b2a.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b32aefec.chunk.css.map": "/static/css/main.b32aefec.chunk.css.map",
-    "static/js/2.c5b42085.chunk.js.LICENSE.txt": "/static/js/2.c5b42085.chunk.js.LICENSE.txt",
-    "static/media/arrow-left.8edfe59d.svg": "/static/media/arrow-left.8edfe59d.svg",
-    "static/media/arrow-right.f030f9db.svg": "/static/media/arrow-right.f030f9db.svg",
+    "static/css/main.4887a4ca.chunk.css.map": "/static/css/main.4887a4ca.chunk.css.map",
+    "static/js/2.9c329b2a.chunk.js.LICENSE.txt": "/static/js/2.9c329b2a.chunk.js.LICENSE.txt",
+    "static/media/arrow-left.svg": "/static/media/arrow-left.8edfe59d.svg",
+    "static/media/arrow-right.svg": "/static/media/arrow-right.f030f9db.svg",
+    "static/media/blog-2.gif": "/static/media/blog-2.c909dd0a.gif",
+    "static/media/blog-3.gif": "/static/media/blog-3.b7ee4cd8.gif",
+    "static/media/blog.gif": "/static/media/blog.86963b55.gif",
+    "static/media/camera.gif": "/static/media/camera.cd2f9b97.gif",
+    "static/media/code.gif": "/static/media/code.afc77dfe.gif",
     "static/media/curology.png": "/static/media/curology.b052d80b.png",
+    "static/media/eye.gif": "/static/media/eye.ec440d4e.gif",
     "static/media/lumin-min.png": "/static/media/lumin-min.c876698e.png",
+    "static/media/test.gif": "/static/media/test.1fcc1f8b.gif",
     "static/media/yourspace-min.png": "/static/media/yourspace-min.f952e744.png"
   },
   "entrypoints": [
     "static/js/runtime-main.987571b1.js",
-    "static/js/2.c5b42085.chunk.js",
-    "static/css/main.b32aefec.chunk.css",
-    "static/js/main.b9af8bac.chunk.js"
+    "static/js/2.9c329b2a.chunk.js",
+    "static/css/main.4887a4ca.chunk.css",
+    "static/js/main.bd4e54ea.chunk.js"
   ]
 }
